@@ -37,7 +37,7 @@ Sourced from [Google](https://download.mlcc.google.com/mledu-datasets/california
 ### Getting started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is kept in the CSV file in the root folder of this repo.
+2. Raw Data is kept in the [CSV file](https://github.com/thecraigd/Linear_Regression_with_TensorFlow/blob/master/data/california_housing_train.csv) in the [data](https://github.com/thecraigd/Linear_Regression_with_TensorFlow/tree/master/data) folder of this repo.
 3. All code is contained within the [Jupyter Notebook](https://github.com/thecraigd/Linear_Regression_with_TensorFlow/blob/master/LinearRegression.ipynb) for this project, stored in the root folder as LinearRegression.ipynb
 
 
