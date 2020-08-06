@@ -20,6 +20,8 @@ This was based on examples used in the excellent [Machine Learning Crash Course]
 ### Methods used
 * EDA
 * Machine Learning
+* Loss Function Plotting
+* Gradient Descent
 * Data visualisation
 
 ### Technologies used
