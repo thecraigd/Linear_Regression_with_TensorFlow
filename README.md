@@ -4,7 +4,7 @@
 [link]: https://www.craigdoesdata.de/
 
 
-# Linear Regression - Real Data
+# Linear Regression - California Housing Dataset
 Machine Learning training project utilising [TensorFlow](https://www.tensorflow.org/) to build an ML model and make predictions.
 
 #### Project status - Complete
